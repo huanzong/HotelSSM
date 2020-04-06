@@ -1,0 +1,10 @@
+
+dsquid:S1192M"HDefine a constant instead of duplicating this literal "success" 3 times.(“Ý˜Ýÿÿÿÿÿ
+asquid:S4488œ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(…½‹6
+Ysquid:S1126¿"AReplace this if-then-else statement by a single return statement.(Ò«Æ×
+^squid:S11925"GDefine a constant instead of duplicating this literal "error" 13 times.(Éã°³
+asquid:S44880"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ú¿Ìã
+asquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ø›ˆˆ
+dsquid:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏÊÃ×ûÿÿÿÿ
+asquid:S4488W"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Šµ†Í
+Jsquid:S1135¬"2Complete the task associated to this TODO comment.(‡ñÅ¼

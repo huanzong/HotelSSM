@@ -1,0 +1,8 @@
+
+Lsquid:S1066Ã"/Merge this if statement with the enclosing one.(šÚ¬×øÿÿÿÿ
+bsquid:S4488ß"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ø›ˆˆ
+bsquid:S4488‚"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Šµ†Í
+^squid:S1192?"GDefine a constant instead of duplicating this literal "error" 19 times.(Éã°³
+dsquid:S4488-"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏÊÃ×ûÿÿÿÿ
+jsquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ŒŒ’Š
+asquid:S4488:"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ú¿Ìã
